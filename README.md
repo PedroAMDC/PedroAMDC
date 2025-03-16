@@ -61,6 +61,22 @@ Me chamo Pedro Augusto e tenho 23 anos. Atualmente, estou no último semestre de
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="n8n" 
+    title="n8n"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://essingtonits.co.uk/wp-content/uploads/n8n.jpeg" 
+/>
+<img 
+    align="left" 
+    alt="ia" 
+    title="ia"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.WxosIBE71hrtLPtyDnMj_QHaHa%26pid%3DApi&f=1&ipt=f6ebaddde46f78e26decbb018cf598ba60af6ec3ef104aea0325117c408a9576&ipo=images" 
+/>
 
 <br/>
 <br/>
